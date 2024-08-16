@@ -1,0 +1,15 @@
+C:\Users\marti\source\repos\Crawler\Crawler\bin\Release\Crawler.exe.config
+C:\Users\marti\source\repos\Crawler\Crawler\bin\Release\Crawler.exe
+C:\Users\marti\source\repos\Crawler\Crawler\bin\Release\Crawler.pdb
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\MainWindow.g.cs
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\App.g.cs
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler_MarkupCompile.cache
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler_MarkupCompile.lref
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\MainWindow.baml
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.g.resources
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.Properties.Resources.resources
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.exe
+C:\Users\marti\source\repos\Crawler\Crawler\obj\Release\Crawler.pdb

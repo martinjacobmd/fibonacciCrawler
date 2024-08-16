@@ -1,0 +1,39 @@
+﻿<Window
+    x:Class="Crawler.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Crawler"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Fibonacci Crawler"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <ScrollViewer>
+            <Frame
+                x:Name="contentFrame"
+                HorizontalAlignment="Left"
+                Content=""
+                Opacity="0.2" />
+        </ScrollViewer>
+        <Button
+            x:Name="crawlButton"
+            Margin="298,181,297,198"
+            Background="#FFC8BFBF"
+            Click="crawlButton_Click"
+            Content="Start Crawling"
+            d:LayoutOverrides="HorizontalAlignment" />
+        <ListView
+            x:Name="resultList"            
+            Height="111"
+            Margin="10,241,17,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Background="#FFC8BFBF"
+            BorderBrush="{x:Null}"
+            FontSize="14"
+            FontWeight="Bold" 
+            Visibility="Hidden" />
+    </Grid>
+</Window>
